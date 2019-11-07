@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/2614dbe/
+Contributing	README.md	/^## Contributing$/;"	s
+Development	README.md	/^## Development$/;"	s
+Error	lib/mixmax.rb	/^  class Error < StandardError; end$/;"	c	module:Mixmax
+Installation	README.md	/^## Installation$/;"	s
+License	README.md	/^## License$/;"	s
+Mixmax	README.md	/^# Mixmax$/;"	c
+Mixmax	lib/mixmax.rb	/^module Mixmax$/;"	m
+Mixmax	lib/mixmax/version.rb	/^module Mixmax$/;"	m
+Mixmax	spec/mixmax_spec.rb	/^RSpec.describe Mixmax do$/;"	d
+Usage	README.md	/^## Usage$/;"	s
+hello	lib/mixmax.rb	/^  def self.hello$/;"	S	module:Mixmax
